@@ -1,4 +1,4 @@
-readme.md # 📙 Feedback Tracker – Serverless AWS Project
+# 📙 Feedback Tracker – Serverless AWS Project
 
 ## 📌 Overview
 The *Feedback Tracker* is a serverless application built on AWS that collects and stores user feedback via a REST API. It uses *API Gateway, **AWS Lambda, and **DynamoDB* for a fully managed, scalable, and cost-effective architecture.  
